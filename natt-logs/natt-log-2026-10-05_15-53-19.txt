@@ -1,0 +1,7 @@
+[15:53:19][PluginLoader][WARNING] Plugins directory not found.
+[15:53:19][NATTCore][INFO] NATT CORE initialization done
+Version: 1.7.0 
+Configuration path: https://gitlab.com/ap5vs/test-config/email-sender-config/-/raw/main/test-config-1.yaml?ref_type=heads
+Configuration loading mode: FROM URL
+[15:53:19][NATTCore][INFO] Working directory path: C:\Users\bagri\Downloads\email-sender-main\email-sender-main
+[15:53:19][NATTCore][INFO] Start loading of the configuration file ...
